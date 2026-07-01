@@ -1,0 +1,18 @@
+{
+  "name": "ola-plan-verify-skill-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "Plan Verify Skill 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ola-plan-verify-skill",
+      "source": "./plugins/ola-plan-verify-skill",
+      "description": "Plan Verify Skill —— 由 CruiseSkillBridge 一键发布的Skill。",
+      "version": "0.1.0"
+    }
+  ]
+}
